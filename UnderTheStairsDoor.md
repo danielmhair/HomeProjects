@@ -32,11 +32,11 @@ Under the Stairs Door Project
 
 ### Total Amount to Spend for DIY Project: $68
 - **Door Panels**: Wood - $8
-- **Wood Glue**: $5
-- **Gold Paint**: $2
-- **Top decorative Piece**: $13
-- **4 Clamps**: $30
-- **Screws less than 2" long**: $10
+- **Wood Glue**: $5 - [Home Depot](https://www.grainger.com/product/4GZK3?cm_mmc=PPC:+Google+PLA&s_kwcid=AL!2966!3!166589271520!!!!371874328938!&ef_id=Wc05XAAAA1jz1Gqt:20171018221150:s&kwid=productads-adid^166589271520-device^c-plaid^371874328938-sku^4GZK3-adType^PLA)
+- **Gold Paint**: $2 - [Walmart](https://www.walmart.com/ip/FolkArt-Metallics-2-oz-Pure-Gold/17301290?wmlspartner=wlpa&selectedSellerId=1453&adid=22222222227015420464&wl0=&wl1=g&wl2=c&wl3=40939422632&wl4=pla-78875118752&wl5=9029705&wl6=&wl7=&wl8=&wl9=pla&wl10=112550049&wl11=online&wl12=17301290&wl13=&veh=sem)
+- **Top decorative Piece**: $13 - [Idea from here](https://www.vandykes.com/restorers-architectural-gladstone-urethane-onlay-applique/p/227852/)
+- **4 Clamps**: $30 - [Home Depot](http://www.homedepot.com/p/DEWALT-Clamp-Set-4-Piece-DWHT83196D/205418759)
+- **Screws less than 2" long**: $8 - [Home Depot](http://www.homedepot.com/p/Grip-Rite-6-x-1-1-4-in-Philips-Bugle-Head-Coarse-Thread-Sharp-Point-Drywall-Screws-1-lb-Pack-114CDWS1/100152392)
 
 ### Total Amount if I hired someone to do it: $80-150
 - **Door Panels**: $75 - $135 (take from bids from people)
