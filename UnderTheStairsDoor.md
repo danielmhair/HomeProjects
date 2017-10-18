@@ -30,7 +30,7 @@ Under the Stairs Door Project
 11. Buy the top decorative piece ($12)
 12. Add decorative designs with gold detail paint
 
-### Total Amount Spent for DIY Project: $68
+### Total Amount to Spend for DIY Project: $68
 - **Door Panels**: Wood - $8
 - **Wood Glue**: $5
 - **Gold Paint**: $2
