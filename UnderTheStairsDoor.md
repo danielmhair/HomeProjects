@@ -18,14 +18,14 @@ Under the Stairs Door Project
 
     - I don't have:
         - Wood Glue ($5)
-        - Gold Paint ($2)
         - 4 Clamps ($30)
         - Screws less than 2" long ($10)
+        - Sand Paper
 7. Paint wood pieces burgundy and seal
 8. Connect wood together, glue and screw in (for door panels)
 9. Install Door Handles and Hinges (swing inward)
 
-### Total Amount to Spend for DIY Project: $68
+### Total Amount to Spend for DIY Project: ~$100
 - **Door Panels**: Wood - $8
 - **Wood Glue**: $5 - [Home Depot](https://www.grainger.com/product/4GZK3?cm_mmc=PPC:+Google+PLA&s_kwcid=AL!2966!3!166589271520!!!!371874328938!&ef_id=Wc05XAAAA1jz1Gqt:20171018221150:s&kwid=productads-adid^166589271520-device^c-plaid^371874328938-sku^4GZK3-adType^PLA)
 - **4 Clamps**: $20 - [Home Depot](http://www.homedepot.com/p/DEWALT-Clamp-Set-4-Piece-DWHT83196D/205418759)
